@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63fa90cb-8e1e-45fc-ba9f-7907d50bf8b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/basics/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MethodOverloadingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/Access_Default_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/Access_Public_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/Inheritance_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/SubClass_Default_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/SubClass_PrivateAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/SubClass_Protected_AithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/Access_Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/Default_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/Default_AtimeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/Private_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/Protected_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/Public_ArithmeticOperationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/accessmodifiers/TryAccessingPrviateAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/selenium/base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/selenium/pageobjects/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/selenium/pageobjects/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tekparams/actiondriver/ActionDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tekparams/basics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/basics/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,29 +47,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2Hbo8ApndxlFki6PBBcjwci5nOS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Raman_Dell/Workshops_Clone_Repo/Selenium14NOV2022&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekparams.basics.HelloWorld" />
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Raman_Dell/Workshops_Clone_Repo/Selenium14NOV2022/testng.xml">
+    <configuration name="Access_Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekparams.accessmodifiers.Access_Test1" />
       <module name="Selenium14NOV2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tekparams.basics.*" />
+          <option name="PATTERN" value="com.tekparams.accessmodifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,9 +82,132 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inheritance_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekparams.OOPS.Inheritance_Demo" />
+      <module name="Selenium14NOV2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekparams.OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverloadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloadingDemo" />
+      <module name="Selenium14NOV2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionDriver.openApplication" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium14NOV2022" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekparams.actiondriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.tekparams.actiondriver" />
+      <option name="MAIN_CLASS_NAME" value="com.tekparams.actiondriver.ActionDriver" />
+      <option name="METHOD_NAME" value="openApplication" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Raman_Dell/Workshops_Clone_Repo/Selenium14NOV2022/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium14NOV2022" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTests" type="TestNG">
+      <module name="Selenium14NOV2022" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.tekparams.actiondriver" />
+      <option name="MAIN_CLASS_NAME" value="com.tekparams.actiondriver.ActionDriver" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunAllTests" type="TestNG">
+      <module name="Selenium14NOV2022" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.tekparams.actiondriver" />
+      <option name="MAIN_CLASS_NAME" value="com.tekparams.actiondriver.ActionDriver" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Access_Test1" />
+      <item itemvalue="Application.Inheritance_Demo" />
+      <item itemvalue="Application.MethodOverloadingDemo" />
+      <item itemvalue="TestNG.RegressionTests" />
+      <item itemvalue="TestNG.RunAllTests" />
+      <item itemvalue="TestNG.C:/Raman_Dell/Workshops_Clone_Repo/Selenium14NOV2022/testng.xml" />
+      <item itemvalue="TestNG.ActionDriver.openApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="TestNG.C:/Raman_Dell/Workshops_Clone_Repo/Selenium14NOV2022/testng.xml" />
+        <item itemvalue="TestNG.ActionDriver.openApplication" />
+        <item itemvalue="Application.MethodOverloadingDemo" />
+        <item itemvalue="Application.Inheritance_Demo" />
+        <item itemvalue="Application.Access_Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +232,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tekparams/selenium/base/Base.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tekparams/selenium/base/Base.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
